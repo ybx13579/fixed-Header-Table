@@ -28,3 +28,5 @@
 If you aren't using the minified version, be sure to include
 `lib/jquery.mousewheel.js` in your page if you require mousewheel
 scrolling via fixed columns.
+
+https://github.com/markmalek/Fixed-Header-Table
