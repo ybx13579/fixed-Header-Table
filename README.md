@@ -1,6 +1,11 @@
 ## Version 1.3
  - jquery.fixedheadertable.js
  
+ > **如有帮助谢谢star**   :star::star::star::star::star:
+ 
+## 效果图
+<img src="show/1.png" >
+ 
 ## Methods:
 
 * show - `$('selector').fixedHeaderTable('show');`
